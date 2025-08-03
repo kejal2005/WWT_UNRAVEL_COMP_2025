@@ -1,6 +1,6 @@
 
 # Wings R Us – Recommendation System
-## Team: Data Achievers
+## Team: Data Icons
 ---
 
 ---
