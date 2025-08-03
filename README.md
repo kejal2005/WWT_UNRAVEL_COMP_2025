@@ -35,7 +35,7 @@ Build a personalized recommendation system to predict the missing item in a cust
 
 - Metric: **Recall@3**
 - For each test order, if the true missing item is in the top 3 predictions → counted as correct.
-- ![image alt][https://github.com/kejal2005/WWT_UNRAVEL_COMP_2025/blob/e7d4ed02facbc4dd4fa3d8ed9443079f831a140e/WWT_COMP%20OUTPUT.png]
+- ![image alt](https://github.com/kejal2005/WWT_UNRAVEL_COMP_2025/blob/e7d4ed02facbc4dd4fa3d8ed9443079f831a140e/WWT_COMP%20OUTPUT.png)
 
 ---
 
