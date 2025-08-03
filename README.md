@@ -46,8 +46,8 @@ Build a personalized recommendation system to predict the missing item in a cust
 ---
 
 ## 👨‍💻 Team Members
-- [Kejal Jain ,Sneha Trivedi , Vani Jaiswal]
-- [kj3014@srmist.edu.in , st7044@srmist.edu.in , vj2445@srmist.edu.in]
-- [https://github.com/kejal2005/WWT_UNRAVEL_COMP_2025
+- Kejal Jain ,Sneha Trivedi , Vani Jaiswal
+- kj3014@srmist.edu.in , st7044@srmist.edu.in , vj2445@srmist.edu.in
+- https://github.com/kejal2005/WWT_UNRAVEL_COMP_2025
 
 ---
